@@ -17,6 +17,12 @@ The dataset contains 25 **synthetic responses** created for testing and learning
 - Python & Pandas — data analysis
 - Matplotlib — data visualization
 
+## Data Sources
+
+[Google Forms — Original Survey](https://docs.google.com/forms/d/1MPdT7TCXy1W9zGEScsBSS0fHVqZGcVgQUkiSIJ8N9SE)
+
+[Google Sheets — Survey Responses](https://docs.google.com/spreadsheets/d/15JlLBXr9PAC8nGhnLtPG0eEMViUZqG9XO93pJNNrT6Y/edit?usp=sharing)
+
 ## Analysis
 
 I explored several questions:
